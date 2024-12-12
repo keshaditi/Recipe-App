@@ -5,7 +5,7 @@ Create a Recipe App using HTML, CSS and Javascript. We have used the MealDB API 
 
 ##Preview
 
-![Portfolio](img1.png,img2.png,img3.png,img4.png)
+![Portfolio](images)
 
 ## 🛠 Skills
 
